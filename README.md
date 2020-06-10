@@ -1,5 +1,6 @@
 # DeepLearning_S102_FinalProject_206104_205181_Varas_Planaguma
-Repository for the final project of Deep Learning 2020
+Repository for the final project of Deep Learning 2020.
+
 LARGE-SCALE OBJECT CLASSIFICATIONS
 
 
@@ -10,5 +11,11 @@ We have used Fruit360 dataset but in a reduced way. The folder FinalProject cont
 The code can be found in code.ipynb.
 
 We have tried 3 different models, obtaining accuracies between 87% and 97%.
+
 Then we test some predictions.
+
 Finally we wanted to try transfer learning in this project. 
+
+Núria Varas Paneque -- U150389
+
+Coral Planagumà Colom -- U149896

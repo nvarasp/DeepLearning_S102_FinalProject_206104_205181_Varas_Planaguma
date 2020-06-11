@@ -21,3 +21,5 @@ Núria Varas Paneque -- U150389
 Coral Planagumà Colom -- U149896
 
 The presentation can be found in: https://docs.google.com/presentation/d/1izv-7wyc7Q-_E67LvJTV_ARxAUqkXGJXHx9x9_eB4YU/edit?usp=sharing
+
+As a remark, we reduced considerably the quantity of the original dataset eventhough our project is large-scale classification because it was very demanding for our computers to run the code with those amounts for the three models and we were not able to use the cluster. However we tested them individually with more data and the models we have created are able to classify the images into the corresponding  classes given a much larger dataset. 

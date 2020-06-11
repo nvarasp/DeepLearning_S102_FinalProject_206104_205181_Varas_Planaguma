@@ -19,3 +19,5 @@ Finally we wanted to try transfer learning in this project.
 Núria Varas Paneque -- U150389
 
 Coral Planagumà Colom -- U149896
+
+The presentation can be found in: https://docs.google.com/presentation/d/1izv-7wyc7Q-_E67LvJTV_ARxAUqkXGJXHx9x9_eB4YU/edit?usp=sharing
